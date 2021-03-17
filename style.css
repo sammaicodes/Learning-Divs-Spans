@@ -1,0 +1,10 @@
+.A {
+  color: yellow;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.AB {
+  background-color: lightsalmon;
+  border: solid 2px;
+  font-family: monospace;
+}
