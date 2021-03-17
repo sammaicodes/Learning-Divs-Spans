@@ -8,3 +8,28 @@
   border: solid 2px;
   font-family: monospace;
 }
+
+.boxes {
+  margin: 12px;
+  border: 2px solid green;
+  padding: 4px;
+}
+.tubs {
+  margin: 20px;
+  border: 10px dashed orange;
+  padding: 5px;
+  background-color: black;
+  color: white;
+}
+
+.tubs:hover {
+  background-color: purple; 
+}
+
+.bucket {
+  margin: 10px;
+  border: 5px solid yellow;
+  padding 5px;
+  background-color: magenta;
+  color: blue;
+}
